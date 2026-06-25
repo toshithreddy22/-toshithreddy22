@@ -4,7 +4,7 @@
 
 ### Computer Science Engineering Student · Full Stack Developer · Cloud & Cybersecurity Enthusiast
 
-[![Email](https://img.shields.io/badge/Email-2303031240189%40paruluniversity.ac.in-blue?style=flat-square&logo=gmail)](mailto:2303031240189@paruluniversity.ac.in)
+[![Email](https://img.shields.io/badge/Email-alamuruthoshithreddy20@gmail.com-blue?style=flat-square&logo=gmail)](mailto:alamuruthoshithreddy20@gmail.com)
 [![Location](https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=googlemaps)]()
 
 </div>

@@ -2,7 +2,7 @@
 
 # Hey there, I'm Toshith Reddy 👋
 
-### Computer Science Engineering Student · Full Stack Developer · Cloud & Cybersecurity Enthusiast
+### Computer Science Engineering Student · Full Stack Developer 
 
 [![Email](https://img.shields.io/badge/Email-alamuruthoshithreddy20@gmail.com-blue?style=flat-square&logo=gmail)](mailto:alamuruthoshithreddy20@gmail.com)
 [![Location](https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=googlemaps)]()
